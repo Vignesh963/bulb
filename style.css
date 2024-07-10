@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+img{
+    margin-left: 40%;
+    margin-bottom: 50px;
+    border: 2px solid black;
+}
+#on{
+    width: 100px;
+    height: 50px;
+    margin-left: 382px;
+    font-size: large;
+    background-color: rgb(138, 56, 134)
+}
+#off{
+    width: 100px;
+    height: 50px;
+    margin-left: 382px;
+    font-size: large;
+    background-color: black;
+    color: white;
+}
+
+body{
+    background-image: url(vintage-edison-bulb-light-dark-background-3d-render-bulb-lamp-hd-photography-photo-background-image-generative-ai_653669-1462);
+}
